@@ -1,5 +1,5 @@
 import React from 'react';
-import { Menu, Grid } from 'semantic-ui-react';
+import { Menu, Grid, Button } from 'semantic-ui-react';
 
 export default class FullWidthImage extends React.Component {
   render() {
@@ -12,6 +12,7 @@ export default class FullWidthImage extends React.Component {
                 <Menu.Item>Join Starbucks Rewards today</Menu.Item>
                 <Menu.Item>Just sign up, keep drinking coffee, and you can get Rewards in as few as 2-3 visits
                 </Menu.Item>
+                <Menu.Item><Button>Join Now</Button></Menu.Item>
               </Grid.Column>
             </Grid.Row>
           </Grid>
