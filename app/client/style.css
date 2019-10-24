@@ -1,0 +1,25 @@
+.topmenu {
+  background-color: #006341;
+  box-shadow: none;
+  color: white;
+  border: none;
+  padding-bottom: 5px;
+}
+
+.ui.borderless.topmiddle.menu{
+  border: none;
+  box-shadow: none;
+}
+
+.ui.borderless.middlemenu.menu{
+  box-shadow: none;
+  border: none;
+}
+
+.background-image{
+  background: url(http://globalassets.starbucks.com/assets/bb9cbcff41ef47fea5ea945eecf42cf1.jpg);
+  color: white;
+  height: 500px;
+  box-shadow: none;
+  border: none;
+}
